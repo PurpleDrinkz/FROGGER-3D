@@ -84,7 +84,7 @@ void actualizar() {
 
 	actualizarVista();
 	cuadrado->vista = vista;
-	tacoma->vista = vista;
+	tacoma->vista = vista; 
 }
 
 void dibujar() {
